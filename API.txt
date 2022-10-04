@@ -1,0 +1,9 @@
+获取单词数据
+get
+http://localhost:3000/words
+参数：
+currentPage//当前页数
+pageSize//
+卡壳的功能实现：
+1.实现单词的隐藏
+2.表格内容的刷新

@@ -1,0 +1,29 @@
+.Home {
+  margin: 0 auto;
+  text-align: center;
+}
+
+.mytable {
+  width: 90%;
+  margin: auto;
+}
+
+th,
+td {
+  border-bottom: 1px solid #ddd;
+  padding: 1rem 0;
+  margin: 0;
+  text-align: left;
+}
+
+.myinput {
+  border: none;
+  width: 5rem;
+  height: 1.3rem;
+  margin: 0;
+  padding: 0;
+}
+
+.pageinput {
+  width: 1rem;
+}
